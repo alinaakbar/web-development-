@@ -1,0 +1,27 @@
+VS code extentions; autoremain tag, live server, live preview
+
+types of tags:
+  1. single
+  2. pair ( has a closing tag)
+
+structure:
+
+<DOCTYPE! html>        //doc type is html v5
+<head>
+      <meta charset="UTF-8" >
+      <meta name="viewport" content = "width-device-width", initial-scale="1.0">
+      <title>Doc</title>
+</head>
+
+
+[ Why do we need meta tags? ]  -> useful in SEO
+[Attributes] -> properties of a tag
+
+[BOLD and STRONG tags] 
+- both texts appear the same
+- visually impares; code reading devices - diff tone
+- strong indicates importance
+
+[ITALIC and EM tags]
+- visually the same
+- emphasis shows importance
