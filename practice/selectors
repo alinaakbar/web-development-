@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>selectors</title>
+
+    <style>
+        h1,h3,h5{
+            font-style: normal;
+        }
+
+        #para1{
+            background-color: beige;
+        }
+        #para2{
+            background-color: aliceblue;
+        }
+
+        .container{
+            background-color: beige;
+            font-size: medium;
+        }
+    </style>
+</head>
+<body>
+    <h3>Selector by id</h3>
+     <p id="para1">paragraph 1 </p>
+    <p id="para2">paragraph 2</p>
+
+    <h3>Selector by class</h3>
+    <h5>Fruits:</h5>
+    <ul type="disc" class="container1">
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Pineapple</li>
+    </ul>
+
+    <h5>Biggest cities by population:</h5>
+    <ol class="container1">
+        <li>Karachi</li>
+        <li>Lahore</li>
+        <li>Faisalabad</li>
+    </ol>
