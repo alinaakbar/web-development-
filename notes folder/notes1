@@ -25,3 +25,88 @@ structure:
 [ITALIC and EM tags]
 - visually the same
 - emphasis shows importance
+
+PAGE
+<a href="about.html">About page<a>
+
+DETAILS
+<details>
+  <summary> Whats html?</summary>
+  <i>lorem100</i>
+
+
+IMAGE
+<img src=" " alr=" " >
+attributes:
+height, width
+CAM controls - cintrils autoplay, mute
+
+
+GOOGLE MAPS; embed a map
+
+INLINE; take space as required
+BLOCK LEVEL; use more space than required, next line
+
+abbr tab -> add extra info, (hover over text with dotted line)
+figure tag-> add caption to an image 
+<figure>
+  <imp src...>
+  <figcaption>caption</figcaption>
+</figure>
+
+LISTS 
+ordered; numbered
+<ol type=""><li> </li></ol>
+type-> "A", "I", "i"....
+
+unordered; bulleted
+<ul type=""> <l1></li> </ul>
+type-> square, disc, circle....
+
+description list; terms and descriptions
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+
+TABLE
+<table border="|">
+  <thead>
+    <tr>
+      <th>name</th>
+    </tr>
+  <thead>
+  <tbody>
+    <tr>
+      <td> text </td>
+    </tr>
+  </tbody>
+
+DIV TAG;  spacing
+FORM
+<form>
+  <div>
+  Gender:<input type="radio" id="like">Male
+          <input type="radio" id="like">Female
+  </div>
+</form>
+
+input types => date, date-time local, file, reset, submit, radio, button
+               checkbox, passrod, email, text, select
+
+<div>
+  Region:
+  <select>
+    <option>Asia</option>
+  </select>
+
+
+&copf; &copy; &dollar; &lt; &trade; &gt; &heart
+&pound; &nbsp; &starf;
+
+
+
+
+
